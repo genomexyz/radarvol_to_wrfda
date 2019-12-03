@@ -1,5 +1,10 @@
 # Converter from Gematronic vol data to wrfda input
 
+Requirement
+===========
+
+- wradlib python module
+
 Usage
 =====
 
